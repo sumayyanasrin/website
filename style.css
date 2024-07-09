@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+nav{
+    position: sticky;
+    top: 0;
+    background-color: rgb(218, 218, 218);
+}
+
+.navbar-brand{
+    margin-left: 40px;
+    font-size: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-right: 200px;
+}
+
+.collapse{
+    margin-left: 100px;
+    
+    
+}
+
+
+
+.collapse .navbar-nav {
+
+    margin-left: 150px;
+    font-size: 15px;
+    align-items: center;
+
+
+
+    
+
+}
+
+
+
+
+.collection{
+ padding-top: 70px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-group{
+  padding: 50PX;
+  background-color: rgb(218, 218, 218);
+}
+
+.card-group:hover{
+    
+    scale:1.01;
+
+}
+   
+
+.card{
+    padding: 10px;
+    background-color: rgb(218, 218, 218);
+}
+
+h5{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bolder;
+
+}
+.card-text1{
+    text-decoration: underline;
+   
+}
+.main{
+    background-color: rgb(218, 218, 218);
+}
+
+.row3{
+    
+    margin-left: 10%;
+    
+    margin-right: 10%;
+    display: flex;
+   
+    justify-content:space-around;
+   align-items: center;
+ 
+}
+.row3:hover{
+    box-shadow: 2px 4px 6px rgb(105, 25, 25);
+    scale:1.06;
+}
+
+.text{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.col2{
+    text-align: center;
+}
+
+
+i{
+    justify-content: center;
+    align-items: center;
+}
+
+.div4{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.div4 h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.div4 .card-group{
+    background-color: white;
+    margin-top: 0;
+    padding-top: 0;
+}
+.div4:hover{
+    scale: 1.06;
+}
+.div4 .card-group:hover{
+    scale: 1.01;
+    text-shadow: 2px 4px 6px rgb(27,30,21);
+    color: rgb(105, 105, 118);
+
+}
+
+.div5{
+    margin-left:5% ;
+    margin-right: 5%;
+}
+
+.div5 .card{
+    width: 100%;
+}
+.div h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-left: 70px;
+
+}
+
+.row5{
+    display: flex;
+  }
+
+  input{
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  textarea{
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px ridge black;
+  }
+
+
+  .nav-item{
+    margin-left: 70px;
+  }
